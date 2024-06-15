@@ -10,6 +10,7 @@
 #include <iostream>
 Triage::Triage()
 {
+    //content
     numPatients = 0;
     list = new Patient[maxRoomCapacity];
 }
